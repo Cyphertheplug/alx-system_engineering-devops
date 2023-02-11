@@ -1,2 +1,2 @@
 #!/bin/bash
-cp  -un *.html ../_
+ln -s /bin/ls __ls__
